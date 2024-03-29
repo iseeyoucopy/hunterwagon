@@ -1,8 +1,8 @@
 #Hunter Wagon
-> A RedM script for animals and pelts to be stored to wagon.
+> A RedM script for animals to be stored to wagon.
 
 ## Features
-- Add animals to any of your wagonwagon
+- Add animals to any of your wagon
 - Add animals to cart and save them to database 
 - Localization keys for language Support
 - Webhook integration
